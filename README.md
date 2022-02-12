@@ -4,8 +4,9 @@
 In preparation for the upcoming 'silver tsnuami' PH is getting its data ready. They had a thorough collection of data from its employees but it needed an upgrade. Using newer programming languages we intended to make it easier to read and analyze.
 
 ## Resources
---pgAdming4
---PostgreSQL
+-pgAdming4
+
+-PostgreSQL
 
 ## Results
 Fig1. Titles of retiring employees
