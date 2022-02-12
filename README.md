@@ -37,6 +37,7 @@ In a perfect scenario, as the silver tsunami approaches the company needs to pre
 
 
 This additional query shows that there is a big imbalance between male and female retiring employees which can serve to analyze its practices and evaluate if there needs to be any adjustment made to make the company more commited with equality.
+
 ![retiring_gndr](https://user-images.githubusercontent.com/22451540/153691581-3ef5d5cd-1cc8-414b-a34d-ccecc72ac7f2.PNG)
 
 
@@ -47,5 +48,6 @@ The same query was repeated for the mentorship elegibility
 
 ![elegibility](https://user-images.githubusercontent.com/22451540/153691744-53e382f8-6312-429a-a038-f477564d0947.PNG)
 
-and the results are very similar. The company needs to take conscious steps to include more women in the decision making positions and ensure parity.
+
+The results are very similar. The company needs to take conscious steps to include more women in the decision making positions and ensure parity.
 
