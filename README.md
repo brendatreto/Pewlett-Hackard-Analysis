@@ -8,15 +8,15 @@ In preparation for the upcoming 'silver tsunami' PH is getting its data ready. T
 - PostgreSQL
 
 ## Results
-Fig1. Titles of retiring employees
+*Fig 1. Titles of retiring employees*
 
 ![unique_titles](https://user-images.githubusercontent.com/22451540/153690094-aeaa713d-b5b4-4af0-a67f-ff275d8feef3.PNG)
 
-Fig 2. Number of employees retiring per department
+*Fig 2. Number of employees retiring per department*
 
 ![retiring_titles](https://user-images.githubusercontent.com/22451540/153690192-b27c262c-6b80-434f-92e3-c7a5c2dced9f.PNG)
 
-Fig 3. Eligible employees for the mentorship program
+*Fig 3. Eligible employees for the mentorship program*
 
 ![mentorship_elegibility](https://user-images.githubusercontent.com/22451540/153690264-df7a4242-7a73-40ca-b6cd-1ff403bc9744.PNG)
 
