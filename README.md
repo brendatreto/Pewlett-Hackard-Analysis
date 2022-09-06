@@ -57,3 +57,6 @@ The same query was repeated for the mentorship eligibility
 
 The results are remarkably similar. The company needs to take conscious steps to include more women in the decision-making positions and ensure parity.
 
+
+## Concluding thoughts
+Using newer tools to perform the analysis allows companies, -and any interested party- to perform more in-depth queries and look for key information that will let them make better decisions based on the actual data, eliminating biases, and enriching the results.
