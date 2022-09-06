@@ -28,7 +28,7 @@ These images show the result of the analysis, and we can confidently say:
 
 
 ## Summary 
-In a perfect scenario, as the silver tsunami approaches the company needs to prepare and look for 13,505 employees. This number is the result of evaluating the number of people that are currently working at PH, have been there since 1985 to 1988, and were between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. In theory these employees are enough, and because they hold senior positions, they are qualified. Nevertheless PH needs to have a backup plan in order to avoid overworking thee employees.
+In a perfect scenario, as the silver tsunami approaches, the company needs to prepare and look for 13,505 new employees. This number is the result of evaluating the number of people that are currently working at PH, have been there since 1985 to 1988, and were between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. In theory these employees are enough, and because they hold senior positions, they are qualified. Nevertheless PH needs to have a backup plan in order to avoid overworking the employees.
 
 ![Additional_query1](https://user-images.githubusercontent.com/22451540/153691513-002e5a0c-7641-43e2-8ae9-e27a481af110.PNG)
 
